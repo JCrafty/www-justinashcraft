@@ -59,7 +59,7 @@ _Esurance Inc._
 
 - - -
 
-11/1997 - 12/1998
+11/1997 - 12/1998\
 **Technical Support**\
 _America Online Inc._
 
