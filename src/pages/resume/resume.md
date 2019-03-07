@@ -1,11 +1,11 @@
 ---
 templateKey: 'resume-page'
-path: /about/resume
+path: /resume
 title: My Resume
 ---
 
-### Justin Ashcraft
-# Solutions Engineer
+# Justin Ashcraft
+## Solutions Engineer
 
 The world needs change! Change that makes a difference to everyone. No matter your education, location or religion. No, I'm not running for office. The change I'm referring to is financial inclusion, and the "new money" is your data. You and contributions have value and you have the right to control and exchange that value. I believe Blockchain technology can make this change happen and I want to be a part of putting this opportunity in the hands of billions of people around the world. If you or your business is working on a similar passion I'd love to be a part of your team.
 
